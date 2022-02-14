@@ -1,7 +1,8 @@
 # CreditApplication
 ### Requirements
-Docker desktop
-run below command in the terminal 
+Docker desktop.
+
+Run below command in the terminal 
 ```
 docker pull postgres
 ```
