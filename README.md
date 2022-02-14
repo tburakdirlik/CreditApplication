@@ -29,6 +29,7 @@ docker-compose -f .\docker-compose.yml up -d
 ```
 Example Json request if you want to use.
 
+```
 {
     "name": "tunahan burak",
     "surname": "dirlik",
@@ -38,6 +39,16 @@ Example Json request if you want to use.
     "creditScore": 1000,
     "creditLimitMultiplier": 4
 }
+```
+UPDATE 
+
+When I make this repo public, a message has arrived.
+Incoming message : Twilio API credentials have been compromised and have automatically revoked
+
+So that to use app properly, make commet 52,53 -- 188,189,190 lines under controller class.
+
+Or use your own Twilio credentials informations, which under CreditApplication/PaytenCreditProject/target/classes/application.yml
+And change trial_number which mention CreditApplication/PaytenCreditProject/src/main/java/com/payten/paytencreditproect2/SmsApi/TwilioSmsSender.java line 28
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/1.png?token=GHSAT0AAAAAABP7K6TKGAHRZGMQN7VKFX5YYQTFGTA" />
