@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "com.payten.paytencreditproect2.SmsApi.TwilioConfiguration",
+      "sourceType": "com.payten.paytencreditproect2.SmsApi.TwilioConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "com.payten.paytencreditproect2.SmsApi.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.payten.paytencreditproect2.SmsApi.TwilioConfiguration"
+    },
+    {
+      "name": "twilio.trial-number",
+      "type": "java.lang.String",
+      "sourceType": "com.payten.paytencreditproect2.SmsApi.TwilioConfiguration"
+    }
+  ],
+  "hints": []
+}
