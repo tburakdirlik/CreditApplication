@@ -31,11 +31,23 @@ docker-compose -f .\docker-compose.yml up -d
 </p>
 
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/2.png?token=GHSAT0AAAAAABP7K6TKDHXLM5ZW5JIIRONIYQTFHHQ" />
 </p>
 
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/3.png?token=GHSAT0AAAAAABP7K6TKW3YHSBEUKHWYRLOWYQTFHSA" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/4.png?token=GHSAT0AAAAAABP7K6TLYTUJJBLNE5CJ6ZT2YQTFIGA" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/5.png?token=GHSAT0AAAAAABP7K6TKVFVOVDP7UQWFDMZ6YQTFISA" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/6.png?token=GHSAT0AAAAAABP7K6TLATFAWBHP6L2F7BDGYQTFJCA" />
 </p>
 
 
