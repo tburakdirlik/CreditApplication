@@ -26,4 +26,16 @@ For this, go to the docker-compose.yml file and run the following command from t
 docker-compose -f .\docker-compose.yml up -d
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/1.png?token=GHSAT0AAAAAABP7K6TKGAHRZGMQN7VKFX5YYQTFGTA" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
 
