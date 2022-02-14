@@ -18,14 +18,26 @@ Only registered numbers in Twilio account are saved in PostgreSQL database, so t
 if you disable this service just delete lines 52,53 -- 188,189,190 lines in the Controller class which under the CreditApi package.
 This service used at addUser and updateUser methods.
 
-These repo were referenced and adapted to the project --> https://github.com/amigoscode/springboot-twilio
+These link were referenced for sms api and adapted to the project --> https://github.com/amigoscode/springboot-twilio
 
 PostgreSQL is running as a docker container.
 For this, go to the docker-compose.yml file and run the following command from the terminal.
 
+Preferred Doman Driven Design. 
 ```
 docker-compose -f .\docker-compose.yml up -d
 ```
+Example Json request if you want to use.
+
+{
+    "name": "tunahan burak",
+    "surname": "dirlik",
+    "userId": 10000000000,
+    "telephoneNo": 905536784805,
+    "monthlyIncome": 8000.00,
+    "creditScore": 1000,
+    "creditLimitMultiplier": 4
+}
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tburakdirlik/CreditApplication/main/SS/1.png?token=GHSAT0AAAAAABP7K6TKGAHRZGMQN7VKFX5YYQTFGTA" />
